@@ -14,7 +14,7 @@
 
 ## FAQ
 
-Часто задаваемые вопросы
+[Часто задаваемые вопросы](https://github.com/Entering-IT/documentation/discussions/categories/q-a)
 
 ## Карта документов
 
