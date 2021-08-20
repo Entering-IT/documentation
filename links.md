@@ -1,4 +1,7 @@
 # Ссылки на полезные материалы
+- [Алгоритмы: теория и практика. Структуры данных](https://stepik.org/course/1547/promo)
+- [Базовый курс SQL](https://stepik.org/course/63054/promo)
+
 
 ## Книги 
 
@@ -29,6 +32,7 @@
 - [Источники по безопасному (Secure) программированию](https://ru.stackoverflow.com/q/471356)
 - [Книги и учебные ресурсы по машинному обучению](https://ru.stackoverflow.com/q/678970)
 - [Книги и другие учебные материалы по тестированию](https://ru.stackoverflow.com/q/451404)
+
 
 ### [Stack Overflow на английском](https://ru.stackoverflow.com/a/454724/181472)
 
