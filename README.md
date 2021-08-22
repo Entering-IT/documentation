@@ -30,3 +30,7 @@
 
 - [Pyhon разработчик](python/roadmap.md)
 - [Java, изучение через создание проекта](https://www.youtube.com/watch?v=TpxGzbn2_x4&list=PLyxk-1FCKqockmP-fXZmHQ7UlYP3qvZRa)
+
+## Подготовка к собеседованиям
+
+- [Алгоритмы (FAANG)](interview/algorithms_basics.md)
