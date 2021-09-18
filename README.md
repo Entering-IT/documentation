@@ -16,6 +16,7 @@
 
 [Часто задаваемые вопросы](https://github.com/Entering-IT/documentation/discussions/categories/q-a)
 
+
 ## Карта документов
 
 Ссылки на документы в этом репозитории. 
@@ -27,7 +28,7 @@
 - [Ссылки на материалы для обучения](links.md)
 
 ## Программы обучения
-
+- [Наш канал YouTube] (https://www.youtube.com/channel/UCW0TBEyJDtY1pwq3S_pMDFQ)
 - [Pyhon разработчик](python/roadmap.md)
 - [Java, изучение через создание проекта](https://www.youtube.com/watch?v=TpxGzbn2_x4&list=PLyxk-1FCKqockmP-fXZmHQ7UlYP3qvZRa)
 
