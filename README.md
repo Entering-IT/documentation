@@ -26,6 +26,8 @@
 - [Роли и обязанности в разработке ПО](common/RolesAndResponsibilities.md)
 - [Групповая разработка ПО](common/TeamAndSoftwareDevelopment.md)
 - [Ссылки на материалы для обучения](links.md)
+- [Структурированные материалы с отзывами "из первых рук"](0intro.md)
+- [Видео встречи (архив)](meetups.md)
 
 ## Программы обучения
 - [Наш канал YouTube](https://www.youtube.com/channel/UCW0TBEyJDtY1pwq3S_pMDFQ)
