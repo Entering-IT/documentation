@@ -37,3 +37,8 @@
 ## Подготовка к собеседованиям
 
 - [Алгоритмы (FAANG)](interview/algorithms_basics.md)
+
+### Тестовые собеседования
+
+- [Подать заявку](https://forms.gle/p8TuT9zb31eXYuHr5)
+- [Список заявок](https://docs.google.com/spreadsheets/d/1XskAWtyP95B-Mb9-acj2n2_xFxbfRirfL99d4Tq2DiA/edit?usp=sharing)
