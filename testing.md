@@ -452,5 +452,11 @@ hands-on в автоматизации: уверенное использова�
 
 ###### Полезные ссылки
 [Сборник теории 1](http://www.protesting.ru/)
+
 [Сборник теории 2](https://qastart.by/)
+
 [Видео об интеграционном тестировании](https://www.youtube.com/watch?v=dflmpqh_oRc)
+
+[Заголовки запросов и ответов в HTTP](https://code.tutsplus.com/ru/tutorials/http-headers-for-dummies--net-8039)
+
+[Про REST API](https://highload.today/rest-api-soap/)
