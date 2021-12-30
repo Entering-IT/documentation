@@ -510,3 +510,4 @@ hands-on в автоматизации: уверенное использова�
 [Видео об интеграционном тестировании](https://www.youtube.com/watch?v=dflmpqh_oRc)  
 [Заголовки запросов и ответов в HTTP](https://code.tutsplus.com/ru/tutorials/http-headers-for-dummies--net-8039)  
 [Про REST API](https://highload.today/rest-api-soap/)
+[Библия QA (очень много материалов)](https://github.com/VladislavEremeev/QA_bible)
