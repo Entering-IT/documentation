@@ -508,6 +508,7 @@ hands-on в автоматизации: уверенное использова�
 [Хороший сайт с большим количеством различных материалов](http://testbase.ru/)  
 [Сборник теории 1](http://www.protesting.ru/)  
 [Сборник теории 2](https://qastart.by/)  
+[Плейлист "Тестировщик с нуля" - освещено большинство тем](https://www.youtube.com/playlist?list=PLKbJd47Kcbju2Vhi-FL7AI14vItVmGYk-)  
 [Видео об интеграционном тестировании](https://www.youtube.com/watch?v=dflmpqh_oRc)  
 [Заголовки запросов и ответов в HTTP](https://code.tutsplus.com/ru/tutorials/http-headers-for-dummies--net-8039)  
 [Про REST API](https://highload.today/rest-api-soap/)
