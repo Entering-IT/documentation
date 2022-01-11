@@ -221,18 +221,16 @@
 И другие ссылки из главы 5 онлайн-книги http://testbase.ru/book-beginner.
 
 ### 7. Другое полезное  
-1. [Лекции Алексея Петрова целиком](https://habr.com/ru/company/vk/blog/260105/). 
-Выше в разделах есть ссылки на отдельные лекции, а тут они все собраны в один курс. Удобно.
-
-2. [Ютуб-канал Артема Русова](https://www.youtube.com/channel/UCiDbqnoBNx3pRHyYAgrnwBg). Новички из чата https://t.me/qajuniors активно хвалят этот канал как лучший из бесплатный материалов.
-
-3. [Ютуб-канал Ольги Назиной](https://www.youtube.com/c/okiseleva). Там она публикует кусочки из своих тренингов и просто полезняшки по разным темам тестирования.
-
-4. [Сборник теории 1](http://www.protesting.ru/), [cборник теории 2](https://qastart.by/).  
-5. [Видео об интеграционном тестировании](https://www.youtube.com/watch?v=dflmpqh_oRc).  
-6. [Заголовки запросов и ответов в HTTP](https://code.tutsplus.com/ru/tutorials/http-headers-for-dummies--net-8039).  
-7. [Про REST API](https://highload.today/rest-api-soap/).
-8. [Библия QA (очень много материалов)](https://github.com/VladislavEremeev/QA_bible).
+1. [Хороший сайт с большим количеством различных материалов](http://testbase.ru/)
+2. [Сборник теории 1](http://www.protesting.ru/), [cборник теории 2](https://qastart.by/).  
+3. [Видео об интеграционном тестировании](https://www.youtube.com/watch?v=dflmpqh_oRc).  
+4. [Заголовки запросов и ответов в HTTP](https://code.tutsplus.com/ru/tutorials/http-headers-for-dummies--net-8039).  
+5. [Про REST API](https://highload.today/rest-api-soap/).
+6. [Библия QA (очень много материалов)](https://github.com/VladislavEremeev/QA_bible).
+7. [Лекции Алексея Петрова целиком](https://habr.com/ru/company/vk/blog/260105/). Выше в разделах есть ссылки на отдельные лекции, а тут они все собраны в один курс. Удобно.
+8. [Ютуб-канал Артема Русова](https://www.youtube.com/channel/UCiDbqnoBNx3pRHyYAgrnwBg). Новички из чата https://t.me/qajuniors активно хвалят этот канал как лучший из бесплатный материалов.
++ в составе этого канала есть [плейлист "Тестировщик с нуля"](https://www.youtube.com/playlist?list=PLKbJd47Kcbju2Vhi-FL7AI14vItVmGYk-), - освещено большинство тем 
+9. [Ютуб-канал Ольги Назиной](https://www.youtube.com/c/okiseleva). Там она публикует кусочки из своих тренингов и просто полезняшки по разным темам тестирования.
 
 
 **Книги:**
