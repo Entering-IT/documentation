@@ -226,7 +226,7 @@
 3. [Видео об интеграционном тестировании](https://www.youtube.com/watch?v=dflmpqh_oRc).  
 4. [Заголовки запросов и ответов в HTTP](https://code.tutsplus.com/ru/tutorials/http-headers-for-dummies--net-8039).  
 5. [Про REST API](https://highload.today/rest-api-soap/).
-6. [Библия QA (очень много материалов)](https://github.com/VladislavEremeev/QA_bible).
+6. [Библия QA](https://vladislaveremeev.gitbook.io/qa_bible/) (очень много материалов), ([гит проекта](https://github.com/VladislavEremeev/QA_bible)).
 7. [Лекции Алексея Петрова целиком](https://habr.com/ru/company/vk/blog/260105/). Выше в разделах есть ссылки на отдельные лекции, а тут они все собраны в один курс. Удобно.
 8. [Ютуб-канал Артема Русова](https://www.youtube.com/channel/UCiDbqnoBNx3pRHyYAgrnwBg). Новички из чата https://t.me/qajuniors активно хвалят этот канал как лучший из бесплатный материалов.
 + в составе этого канала есть [плейлист "Тестировщик с нуля"](https://www.youtube.com/playlist?list=PLKbJd47Kcbju2Vhi-FL7AI14vItVmGYk-), - освещено большинство тем 
